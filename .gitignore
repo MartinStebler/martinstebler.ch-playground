@@ -3,4 +3,6 @@ img/_webftp_de_IP_194_11_167_154.txt
 
 lib/_webftp_de_IP_194_11_167_154.txt
 
-*.txt
+.DS_Store
+
+stylesheets/_webftp_de_IP_194_11_167_154.txt
